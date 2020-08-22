@@ -97,7 +97,6 @@ struct CardView: View {
     
 }
 
-
  
 // MARK: Model CardModel
 
