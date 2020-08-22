@@ -19,7 +19,8 @@ struct ContentView: View {
 @ObservedObject var obs = Observer()
 
 var body: some View {
-    NavigationView {
+   
+   NavigationView {
         List(obs.datas) { i in
             CardView(name: i.login, url: i.avatar_url)
                }
