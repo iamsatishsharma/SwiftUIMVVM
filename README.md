@@ -19,7 +19,7 @@ Add SDWebImage as swift package dependencies
 https://github.com/SDWebImage/SDWebImageSwiftUI.git
 
 
-![Image of Output](https://raw.githubusercontent.com/sharmadevelopers/SwiftUIMVVM/master/HomeScreen.png)
+![Screenshot](https://raw.githubusercontent.com/sharmadevelopers/SwiftUIMVVM/master/HomeScreen.png)
 
 
 The code would look like this:
@@ -118,3 +118,13 @@ struct CardModel : Identifiable, Codable {
 }
  
  ```
+# Thanks
+
+[SDWebImage](https://github.com/SDWebImage/SDWebImageSwiftUI.git)
+[Alamofire](https://github.com/Alamofire/Alamofire)
+[SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
+
+# License
+
+SwiftUIMVVM is available under the MIT license. See the LICENSE file for more info.
+
