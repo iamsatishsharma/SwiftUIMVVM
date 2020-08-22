@@ -1,6 +1,6 @@
 # SwiftUIMVVM
 
-SwiftUI + MVVM + Alamofire
+<h1>SwiftUI + MVVM + Alamofire </h1>
 
 
 SwiftUI: SwiftUI is an innovative, exceptionally simple way to build user interfaces across all Apple platforms with the power of Swift. Build user interfaces for any Apple device using just one set of tools and APIs.
@@ -19,8 +19,7 @@ Add SDWebImage as swift package dependencies
 https://github.com/SDWebImage/SDWebImageSwiftUI.git
 
 
-![Image of Output]
-(https://github.com/sharmadevelopers/SwiftUIMVVM/blob/master/HomeScreen.png?raw=true)
+![Image of Output](https://raw.githubusercontent.com/sharmadevelopers/SwiftUIMVVM/master/HomeScreen.png)
 
 ```
 // MARK: ViewModel ContentView
