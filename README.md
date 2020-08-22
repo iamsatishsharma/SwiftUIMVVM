@@ -19,6 +19,7 @@ Add SDWebImage as swift package dependencies
 https://github.com/SDWebImage/SDWebImageSwiftUI.git
 
 // MARK: ViewModel ContentView
+
 struct ContentView: View {
     @ObservedObject var obs = Observer()
     
@@ -36,6 +37,7 @@ struct ContentView: View {
 
 
 // MARK: Observer
+
 class Observer: ObservableObject {
     @Published var datas = [CardModel]()
     
@@ -69,6 +71,7 @@ class Observer: ObservableObject {
  
  
 // MARK: View CardView
+
 struct CardView: View {
     
     var name: String
