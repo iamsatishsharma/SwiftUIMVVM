@@ -39,7 +39,8 @@ struct ContentView: View {
 // MARK: Observer
 
 class Observer: ObservableObject {
-    @Published var datas = [CardModel]()
+   
+   @Published var datas = [CardModel]()
     
     init() {
         
@@ -65,12 +66,11 @@ class Observer: ObservableObject {
             }
         }
         //-----------------------------------------------------
+    }
  }
- }
  
  
- 
-// MARK: View CardView
+ // MARK: View CardView
 
 struct CardView: View {
     
@@ -94,6 +94,7 @@ struct CardView: View {
        
     }
 }
+
 
  
 // MARK: Model CardModel
