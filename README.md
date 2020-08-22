@@ -21,8 +21,8 @@ https://github.com/SDWebImage/SDWebImageSwiftUI.git
 
 ![Image of Output](https://raw.githubusercontent.com/sharmadevelopers/SwiftUIMVVM/master/HomeScreen.png)
 
-<h1>The code would look like this: </h1>
 
+The code would look like this:
 
 ```
 // MARK: ViewModel ContentView
