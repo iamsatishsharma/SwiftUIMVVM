@@ -1,0 +1,52 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
+        "state": {
+          "branch": null,
+          "revision": "becd9a729a37bdbef5bc39dc3c702b99f9e3d046",
+          "version": "5.2.2"
+        }
+      },
+      {
+        "package": "ObjectMapper",
+        "repositoryURL": "https://github.com/tristanhimmelman/ObjectMapper.git",
+        "state": {
+          "branch": null,
+          "revision": "0b96a734de3ea1c87374ae677064f86adb0716ec",
+          "version": "4.2.0"
+        }
+      },
+      {
+        "package": "SDWebImage",
+        "repositoryURL": "https://github.com/SDWebImage/SDWebImage.git",
+        "state": {
+          "branch": null,
+          "revision": "2f9ef53b99a25bdfba97660c69c42cb54e323b78",
+          "version": "5.8.4"
+        }
+      },
+      {
+        "package": "SDWebImageSwiftUI",
+        "repositoryURL": "https://github.com/SDWebImage/SDWebImageSwiftUI.git",
+        "state": {
+          "branch": null,
+          "revision": "4c7f169e39bc35d6b80d42b8eb8301bee9cd0907",
+          "version": "1.5.0"
+        }
+      },
+      {
+        "package": "SwiftyJSON",
+        "repositoryURL": "https://github.com/SwiftyJSON/SwiftyJSON.git",
+        "state": {
+          "branch": null,
+          "revision": "2b6054efa051565954e1d2b9da831680026cd768",
+          "version": "5.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
