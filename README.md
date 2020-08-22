@@ -22,6 +22,7 @@ https://github.com/SDWebImage/SDWebImageSwiftUI.git
 ![Image of Output]
 (https://github.com/sharmadevelopers/SwiftUIMVVM/blob/master/HomeScreen.png?raw=true)
 
+```
 // MARK: ViewModel ContentView
 
 struct ContentView: View {
@@ -38,11 +39,10 @@ struct ContentView: View {
     }
     
 }
+```
 
-
-
+```
 // MARK: Observer
-`<
 class Observer: ObservableObject {
    
    @Published var datas = [CardModel]()
@@ -54,7 +54,7 @@ class Observer: ObservableObject {
                // do some tasks..
             return;
         }
-        >`
+       
         // MARK: Network Call
         //-----------------GET Call----------------------
         //pass model to the network call - get call
@@ -73,8 +73,9 @@ class Observer: ObservableObject {
         //-----------------------------------------------------
     }
  }
+ ```
  
- 
+ ```
  // MARK: View CardView
 
 struct CardView: View {
@@ -100,8 +101,9 @@ struct CardView: View {
     }
     
 }
-
+```
  
+ ```
 // MARK: Model CardModel
 
 struct CardModel : Identifiable, Codable {
@@ -113,4 +115,4 @@ struct CardModel : Identifiable, Codable {
     
 }
  
- 
+ ```
