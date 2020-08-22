@@ -19,7 +19,8 @@ Add SDWebImage as swift package dependencies
 https://github.com/SDWebImage/SDWebImageSwiftUI.git
 
 
-https://github.com/sharmadevelopers/SwiftUIMVVM/blob/master/HomeScreen.png
+![Image of Output]
+(https://github.com/sharmadevelopers/SwiftUIMVVM/blob/master/HomeScreen.png)
 
 // MARK: ViewModel ContentView
 
