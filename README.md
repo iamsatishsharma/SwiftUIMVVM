@@ -21,6 +21,7 @@ https://github.com/SDWebImage/SDWebImageSwiftUI.git
 // MARK: ViewModel ContentView
 
 struct ContentView: View {
+
     @ObservedObject var obs = Observer()
     
     var body: some View {
@@ -93,6 +94,7 @@ struct CardView: View {
         }
        
     }
+    
 }
 
 
@@ -105,6 +107,7 @@ struct CardModel : Identifiable, Codable {
     var login: String
     var avatar_url: String
     var repos_url: String
+    
 }
  
  
