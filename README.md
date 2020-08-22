@@ -120,11 +120,11 @@ struct CardModel : Identifiable, Codable {
  ```
 # Thanks
 
-[1.SDWebImage](https://github.com/SDWebImage/SDWebImageSwiftUI.git)
+[SDWebImage](https://github.com/SDWebImage/SDWebImageSwiftUI.git)
 
-[2.Alamofire](https://github.com/Alamofire/Alamofire)
+[Alamofire](https://github.com/Alamofire/Alamofire)
 
-[3.SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
+[SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
 
 # License
 
