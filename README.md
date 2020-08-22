@@ -14,7 +14,9 @@ Add SDWebImage as swift package dependencies https://github.com/SDWebImage/SDWeb
 
 // MARK: ViewModel ContentView
 
-struct ContentView: View { @ObservedObject var obs = Observer()
+struct ContentView: View { 
+
+@ObservedObject var obs = Observer()
 
 var body: some View {
     NavigationView {
@@ -65,7 +67,6 @@ struct CardView: View {
 
 var name: String
 var url: String
-
 
 var body: some View {
     
