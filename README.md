@@ -20,7 +20,7 @@ https://github.com/SDWebImage/SDWebImageSwiftUI.git
 
 
 ![Image of Output]
-(/HomeScreen.png)
+(https://github.com/sharmadevelopers/SwiftUIMVVM/blob/master/HomeScreen.png?raw=true)
 
 // MARK: ViewModel ContentView
 
