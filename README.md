@@ -42,7 +42,7 @@ struct ContentView: View {
 
 
 // MARK: Observer
-`<addr>`
+`<
 class Observer: ObservableObject {
    
    @Published var datas = [CardModel]()
@@ -54,7 +54,7 @@ class Observer: ObservableObject {
                // do some tasks..
             return;
         }
-        
+        >`
         // MARK: Network Call
         //-----------------GET Call----------------------
         //pass model to the network call - get call
