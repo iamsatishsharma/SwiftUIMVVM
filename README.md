@@ -42,7 +42,7 @@ struct ContentView: View {
 
 
 // MARK: Observer
-
+`<addr>`
 class Observer: ObservableObject {
    
    @Published var datas = [CardModel]()
