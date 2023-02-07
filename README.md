@@ -1,5 +1,8 @@
 # SwiftUIMVVM
 
+# Follow and give a start :star:
+Connect with me on [Linkedin](https://www.linkedin.com/in/satishsharma1/) as well to support this project. 
+
 <h1>SwiftUI + MVVM + Alamofire </h1>
 
 
