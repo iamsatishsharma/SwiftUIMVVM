@@ -1,7 +1,9 @@
 # SwiftUIMVVM
 
-<h1>SwiftUI + MVVM + Alamofire </h1>
+# Follow and give a start :star:
+Connect with me on [Linkedin](https://www.linkedin.com/in/satishsharma1/) as well to support this project. 
 
+<h1>SwiftUI + MVVM + Alamofire </h1>
 
 SwiftUI: SwiftUI is an innovative, exceptionally simple way to build user interfaces across all Apple platforms with the power of Swift. Build user interfaces for any Apple device using just one set of tools and APIs.
 
